@@ -1,0 +1,90 @@
+.first{
+	width: 100%;
+	height: 100%;
+	min-width: 1280px;
+}
+.lunbotu{
+	width: 1280px;
+	height: 500px;
+	margin: 0 auto;
+	position: relative;
+}
+.dizhi{
+	width: 1280px;
+	margin: 0 auto;
+	background: white;
+}
+.dizhi a{
+	padding: 2px 5px;
+	border: 1px solid #333;
+}
+.dizhi a:hover{
+	border-color: #c5a16a;
+	color: #c5a16a;
+}
+.china{
+	width:1280px;
+	height: 110px;
+	margin-top: 17px;
+	text-align: center;
+}
+.china ul{
+	margin-left: 235px;
+	zoom: 1;
+}
+.china ul:after{
+	content: "";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+}
+.china ul a{
+	font-size: 18px;
+	float: left;
+	border-radius: 7px;
+	margin-right: 40px;
+}
+.OVERSEAS{
+	width:1240px;
+	height: 160px;
+	margin-top: 17px;
+	margin-left: 20px;
+	text-align: center;
+}
+.OVERSEAS ul{
+	width: 700px;
+	-margin: 0 auto;
+	margin-left: 310px;
+	zoom: 1;
+}
+.OVERSEAS ul:after{
+	content: "";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+}
+.OVERSEAS ul a{
+	font-size: 18px;
+	border-radius: 7px;
+	float: left;
+	margin-right: 40px;
+}
+.titlebox{
+	width: 1280px;
+	margin: 0 auto;
+	background: url(../img/title1.jpg)center;
+}
+.kezhaotongdao a{
+	width: 100%;
+	height: 100%; 	
+	display: block;
+	display: flex;
+}
+.kezhaotongdao a img{
+	width: 100%;
+	height: 100%;
+	min-width: 1480px;
+}
+

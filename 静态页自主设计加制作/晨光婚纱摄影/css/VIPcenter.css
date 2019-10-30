@@ -1,0 +1,60 @@
+.center{
+	width: 1280px;
+	margin: 0 auto;
+	zoom: 1;
+}
+.center:after{
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
+.cennav{
+	width: 280px;
+	height: 860px;
+	float: left;
+}
+.info{
+	width: 280px;
+	height: 250px;
+}
+.portrait{
+	width: 156px;
+	height: 156px;
+	margin: 50px auto 0;
+	border: 2px solid #b5d8fc;
+}
+.id{
+	width: 160px;
+	height: 25px;
+	margin: 40px auto 0;
+	background: white;
+}
+
+.cennav ul a{
+	display: block;
+	width: 150px;
+	height: 45px;
+	border: 1px solid #ccc;
+	margin: 20px auto;
+	text-align: center;
+	line-height: 45px;
+	border-radius: 10px;
+	color: #444;
+}
+.cennav ul a:hover{
+	-background: #c6a16a;
+	border-color: #c6a16a;
+	color: #c6a16a;
+}
+.cennav ul hr{
+	width: 300px;
+	background: #ccc;
+}
+.centxt{
+	width: 1000px;
+	height: 860px;
+	background: white;
+	float: left;
+}

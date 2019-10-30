@@ -1,0 +1,70 @@
+.lovImg img{
+	width: 100%;	
+	min-width: 1480px;
+}
+.title{
+	width: 1280px;
+	margin: 0 auto;
+	background: url(../img/title7.jpg) center;
+}
+.lovebox{
+	width: 100%;
+	background: white;
+}
+.loveshow{
+	width: 1280px;
+	height: 1200px;
+	margin: 0 auto;
+}
+.loveshow1{
+	float: left;
+	width: 1280px;
+	height: 400px;
+}
+.loveleft{
+	width: 395px;
+	height: 400px;
+	float: left;
+	background: #416483;
+	border-right: 5px solid #c6a16a;
+}
+.loveright{
+	width: 875px;
+	height: 395px;
+	float: left;
+	border-bottom: 5px solid #c6a16a;
+}
+.lovebtn{
+	width: 960px;
+	height: 105px;
+	margin: 0 auto;
+	padding-top: 80px;
+	padding-left: 320px;
+}
+.lovebtn a{
+	display: block;
+	float: left;
+	border-radius: 3px;
+	margin: 0 2px;	
+	text-align: center;
+	line-height: 36px;
+}
+.a22{
+	width: 75px;
+	height: 36px;
+	background: white;
+	color: #d5cecf;
+	font-size: 16px;
+}
+.a33{
+	width: 36px;
+	height: 36px;
+	background: white;
+	color: #d5cecf;
+}
+.lovebtn a:hover{
+	color: white;
+	background: #c6a16a;
+}
+
+

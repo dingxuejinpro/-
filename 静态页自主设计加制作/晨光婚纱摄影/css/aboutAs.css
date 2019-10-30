@@ -1,0 +1,51 @@
+.title{
+	width: 1280px;
+	margin: 0 auto;
+	background: url(../img/title4.jpg) center;
+}
+.banner{
+	width: 1280px;
+	margin: 0 auto;
+}
+.nav4{
+	width: 914px;
+	height: 524px;
+	padding: 26px 186px 0 186px;
+	background: url(../img/nav4bg.jpg) no-repeat bottom;
+}
+.nav4 ul{
+	
+	display: flex;
+}
+.nav4 ul li{
+	display: block;
+	width: 128px;
+	height: 48px;
+	border: 1px solid #ccc;
+	font-size: 24px;
+	text-align: center;
+	line-height: 48px;
+	margin: 0 11px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.nav4 ul li:hover{
+	border-color: #c6a16a;
+	color: #c6a16a;
+}
+
+.banTxt{
+	width: 1280px;
+	padding: 22px 40px 0 22px;
+	margin-bottom: 50px;
+}
+.p66{
+	font-size: 26px;
+	color: #b28abf;
+	line-height: 60px;
+}
+.p67{
+	font-size: 18px;
+	color: #444;
+	line-height: 60px;
+}

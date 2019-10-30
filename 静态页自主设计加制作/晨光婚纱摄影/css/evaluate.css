@@ -1,0 +1,64 @@
+.title{
+	width: 1280px;
+	margin: 0 auto;
+	background: url(../img/title6.jpg) center;
+}
+.evabox{
+	width: 100%;
+	background:url(../img/evaboxbg.jpg) ;
+}
+.evaluate{
+	width: 1280px;
+	margin: 0 auto;
+	background: url(../img/evabg.jpg)no-repeat center top;
+	z-index: 99;
+}
+.evatxt{
+	width: 755px;
+	height: 338px;
+	padding: 120px 0 0 525px;
+}
+.evaluateinfo{
+	width: 805px;
+	height: 490px;
+	padding-left: 475px;
+}
+.p57{
+	display: inline;
+	font-size: 40px;
+}
+.p58{
+	font-size: 24px;
+	margin-left: 24px;
+	margin-top: 40px;
+}
+.evaluate1{
+	width: 785px;
+	height: 156px;
+	background: url(../img/evaluateinfobg.jpg)right no-repeat;
+	margin-top: 48px;
+}
+.evabtn{
+	margin:80px 0 0 370px;
+}
+.evabtn a{
+	display: block;
+	float: left;
+	border-radius: 3px;
+	margin: 0 2px;	
+	text-align: center;
+	line-height: 36px;
+}
+.a22{
+	width: 75px;
+	height: 36px;
+	background: white;
+	color: #d5cecf;
+	font-size: 16px;
+}
+.a33{
+	width: 36px;
+	height: 36px;
+	background: #c6a16a;
+	color: white;
+}
